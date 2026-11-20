@@ -1,0 +1,13 @@
+
+h1{
+    animation: text 3s infinite;
+}
+
+@keyframes text{
+    from{
+       opacity: 0;
+    }to{
+       opacity: 1;
+   
+    }
+}
